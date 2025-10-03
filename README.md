@@ -1,7 +1,7 @@
 # Sauce Demo — Playwright UI Automation (Page Object Model)
 Project Overview
 This repository contains Playwright UI automation tests for the Sauce Demo application, implemented using the Page Object Model (POM) pattern to keep tests maintainable, readable, and scalable.
-The tests validate core e-commerce flows such as login, product sorting, add/remove items, cart verification, and checkout.
+The tests validate core e-commerce flows such as login,  add/remove items, cart verification, and checkout.
 
 
 ## Table of Contents
